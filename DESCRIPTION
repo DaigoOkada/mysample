@@ -1,5 +1,5 @@
 Package: mysample
-Title: Calculation of minor allele frecuency
+Title: Calculation of minor allele frecuency from genotype counts.
 Version: 0.0.0.9000
 Authors@R: c(person("Daigo", "Okada", email = "dokada@genome.med.kyoto-u.ac.jp", role = "cre"),person("Ryo", "Yamada", email = "ryamada@genome.med.kyoto-u.ac", role = "aut"))
 Description: It is the packge for calculation of minor allele frequency.This package was created in the Statitical Genetics Handson with Osaka Univ.
