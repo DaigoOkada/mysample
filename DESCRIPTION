@@ -1,0 +1,18 @@
+Package: mysample
+Title: Calculation of minor allele frecuency
+Version: 0.0.0.9000
+Authors@R: c(person("Daigo", "Okada", email = "dokada@genome.med.kyoto-u.ac.jp", role = "cre"),person("Ryo", "Yamada", email = "ryamada@genome.med.kyoto-u.ac", role = "aut"))
+Description: It is the packge for calculation of minor allele frequency.This package was created in the Statitical Genetics Handson with Osaka Univ.
+Depends: R (>= 3.4.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    MASS (>= 7.3.0),
+    Rcpp
+Suggests: 
+    gplots
+RoxygenNote: 6.1.1
+LinkingTo: 
+    Rcpp
